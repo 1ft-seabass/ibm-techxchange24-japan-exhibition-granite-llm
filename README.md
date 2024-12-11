@@ -8,4 +8,6 @@
 
 ![alt text](image.png)
 
-→[やってみましょう！](./00-simple-try-ja.md)
+→[やってみましょう！ (Japanese edition)](./00-simple-try-ja.md)
+
+→[Let's try! (English edition)](./00-simple-try-ja.md)
