@@ -6,7 +6,7 @@
 
 ## スライド
 
-<script defer class="speakerdeck-embed" data-id="555bc2255fb045fda43ec0de867f9b73" data-ratio="1.7772511848341233" src="//speakerdeck.com/assets/embed.js"></script>
+https://speakerdeck.com/1ftseabass/ibm-techxchange-japan-2024-exhibition
 
 ## やってみましょう！
 
