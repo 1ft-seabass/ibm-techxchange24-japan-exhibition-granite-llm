@@ -1,14 +1,14 @@
-# Let's try Ollama + GitHub CodeSpaces + open source Granite LLM
+# Let's try Ollama + GitHub CodeSpaces + Open source Granite LLM
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja.png)
 
-Ollama can ease to use IBM published open sourse LLM named IBM Granite.
+Ollama make it easier to use IBM published open-source LLM named IBM Granite.
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja-1.png)
 
 Ollama'blog article also inform IBM Granite 3.0 model collaboration in https://ollama.com/blog/ibm-granite .
 
-## Let's launch GitHub CodeSpaces
+## Launch GitHub CodeSpaces
 
 This article explain in my 2024/11/08 knowledge.
 
@@ -26,7 +26,7 @@ Please wait launching GitHub CodeSpaces for a moment.
 
 Launched!
 
-## Let's install Ollama
+## Install Ollama
 
 The https://github.com/ollama/ollama article has the way of installing  Ollama.
 
@@ -38,7 +38,7 @@ The picture's a red border rect indicate Terminal for entering commands.
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-Please type the above command and press Enter to run it.
+Type the above command and press Enter to run it.
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja-4.png)
 
@@ -52,19 +52,19 @@ It progress installing...
 
 It finished install.
 
-## Let's launch Ollama
+## Launch Ollama
 
 ```
 ollama serve
 ```
 
-Please type the above command and press Enter to run it.
+Type the above command and press Enter to run it.
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja-8.png)
 
 It launched Ollama server.
 
-## Let's launch a new Terminal.
+## Start a New Terminal
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja-9.png)
 
@@ -80,7 +80,7 @@ It launched a new terminal.
 
 These terminals can be switched using the UI on the right. Let's continue this time.
 
-## Let's install MoE LLM model.
+## Install the MoE LLM model
 
 https://ollama.com/blog/ibm-granite has a lotp of curious LLMs. This time, let's try the Mixture of Expert (MoE) models for low latency.
 
@@ -88,7 +88,7 @@ https://ollama.com/blog/ibm-granite has a lotp of curious LLMs. This time, let's
 ollama run granite3-moe
 ```
 
-Please type the above command in the current new terminal and press Enter to run it.
+Type the above command in the current new terminal and press Enter to run it.
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja-12.png)
 
@@ -102,7 +102,7 @@ It continue downloading.
 
 It prepared various preparations. It will say success. You will be able to sending a message!
 
-## Let's try
+## Test the Model
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja-15.png)
 
