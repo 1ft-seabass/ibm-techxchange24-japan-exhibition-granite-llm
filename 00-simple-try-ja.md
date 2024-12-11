@@ -1,4 +1,4 @@
-# Ollama + Code Engine + Granite モデルを試してみよう
+# Ollama + GitHub CodeSpaces + Granite モデルを試してみよう
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja.png)
 

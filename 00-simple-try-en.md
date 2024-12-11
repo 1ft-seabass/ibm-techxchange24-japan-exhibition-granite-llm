@@ -1,4 +1,4 @@
-# Try Ollama + Code Engine + Granite
+# Let's try Ollama + GitHub CodeSpaces + open source Granite LLM
 
 ![alt text](images/00-simple-try-ja/00-simple-try-ja.png)
 
